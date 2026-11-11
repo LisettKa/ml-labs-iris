@@ -1,0 +1,9 @@
+{
+  "files": [
+    {
+      "path": "data/raw/iris.csv",
+      "sha256": "f76795cd108f0cca540638bc47090793842ab3cbff341520b4ab03bb175717e5",
+      "size_bytes": 4336
+    }
+  ]
+}
