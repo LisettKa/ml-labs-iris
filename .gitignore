@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+
+# Данные
+data/raw/*.csv
+!data/raw/*.json
+
+# Модели
+*.joblib
+*.pt
+*.pkl
+*.npz
+
+# Логи
+*.log
+
+# ОС
+.DS_Store
+Thumbs.db
